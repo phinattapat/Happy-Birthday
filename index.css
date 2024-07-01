@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+.des{
+    width: 75%;
+    
+}
+.pink{
+    color:pink;
+}
+.lightblue{
+    color:lightblue
+}
+img{
+    width: 60%;
+    border: lightblue solid 10px;
+    border-radius: 20px;
+}
+.all{
+    border-color: gold;
+}

@@ -1,0 +1,27 @@
+.pi{
+    border-color: violet;
+}
+.beta{
+    border-color: green;
+}
+.paou{
+    border-color: lightblue;
+}
+img{
+    width: 60%;
+    border: lightblue solid 10px;
+    border-radius: 20px;
+}
+hr{
+    width:75%;
+    margin: auto;
+
+}
+.main{
+    
+    display: flex;
+    justify-content: center;
+}
+.text{
+    text-align: justify;
+}
